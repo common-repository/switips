@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Switips\n"
+"POT-Creation-Date: 2021-05-12 18:51+0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Outcode\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;"
+"_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: wc-switips.php\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: wc-switips.php:27
+msgid "Switips"
+msgstr "Switips"
+
+#: wc-switips.php:28
+msgid "Uploading order information"
+msgstr "Paginación de los datos de pedidos"
+
+#: wc-switips.php:29
+msgid "Save"
+msgstr "Guardar"
+
+#: wc-switips.php:84
+msgid "WooCommerce Switips"
+msgstr "WooCommerce Switips"
+
+#: wc-switips.php:93
+msgid "Partner ID"
+msgstr "Identificador de socio"
+
+#: wc-switips.php:94 wc-switips.php:101 wc-switips.php:108
+msgid "Properties"
+msgstr "Propiedades"
+
+#: wc-switips.php:100
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: wc-switips.php:107
+msgid "Currency"
+msgstr "Divisa"
+
+#: wc-switips.php:308 wc-switips.php:328 wc-switips.php:340
+msgid "Agent s commission"
+msgstr "Remuneración del agente"
+
+#: wc-switips.php:312 wc-switips.php:330 wc-switips.php:343
+msgid ""
+"<p class=\"help\">The amount of the agency fee is transferred to Switips. "
+"<br> If you indicate the% sign, the amount of remuneration will be "
+"calculated as% of the value of the goods <br>Example: <b> 10% </b></p>"
+msgstr ""
+"<p class=\"help\"> Si se pone el signo %, el monto de la comisión se "
+"calculará como un porcentaje del precio del producto. <br>Por ejemplo: "
+"<b> 10% </b></p>"
